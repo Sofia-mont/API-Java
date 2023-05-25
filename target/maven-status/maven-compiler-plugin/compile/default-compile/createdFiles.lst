@@ -1,0 +1,5 @@
+main\java\com\sofia\thecnicaltest\services\ProductService.class
+com\sofia\thecnicaltest\dao\ProductDAO.class
+com\sofia\thecnicaltest\models\Product.class
+main\java\com\sofia\thecnicaltest\services\CategoryService.class
+com\sofia\thecnicaltest\models\Category.class
